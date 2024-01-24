@@ -1,0 +1,19 @@
+29Q: Describe the TCP Handshake.
+
+29A: 1. the sender sends a SYN message. 2. The receiver responds with SYN-ACK. 3. The sender replies with ACK, establishing a connection.
+
+30Q: What is the difference between TCP and UDP?
+
+30A: TCP is reliable with error checking, awhile UDP is faster but less reliable, without error checking.
+
+31Q: A user has a machine that shows no output on the monitor. How to troubleshoot?
+
+31A: Check cable connections, monitor power, try different monitors or cables.
+
+32Q: How do you define the following types of malware: a worm, a trojan, a rootkit?
+
+32A: A worm self-replicates to spread, a trojan disguises itself as legitimate software, and a rootkit hides its presence while maintaining privileged access.
+
+33Q: How are ICMP packets denoted in the IP header? How are ICMP echo and reply denoted?
+
+33A: ICMP packets are identified by the protocol field in the IP header. Echo requests and replies are differentiated by their type and code fields.
